@@ -2,5 +2,5 @@
 
 # Python Algorithims
 
-This repository contains solutions to Hackerrank practice problems, algorithms and structure with Python 3.
+This repository contains solutions to Hackerrank practice problems, algorithms and data structure with Python 3.
 
